@@ -16,5 +16,10 @@ namespace modul2_1302200097
         {
             InitializeComponent();
         }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
