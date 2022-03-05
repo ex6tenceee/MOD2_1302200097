@@ -1,0 +1,11 @@
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\bin\Debug\modul2_1302200097.exe.config
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\bin\Debug\modul2_1302200097.exe
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\bin\Debug\modul2_1302200097.pdb
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\obj\Debug\modul2_1302200097.csproj.AssemblyReference.cache
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\obj\Debug\modul2_1302200097.csproj.SuggestedBindingRedirects.cache
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\obj\Debug\modul2_1302200097.Form1.resources
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\obj\Debug\modul2_1302200097.Properties.Resources.resources
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\obj\Debug\modul2_1302200097.csproj.GenerateResource.cache
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\obj\Debug\modul2_1302200097.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\obj\Debug\modul2_1302200097.exe
+C:\Users\NITRO\source\repos\MOD2_1302200097\modul2_1302200097\modul2_1302200097\obj\Debug\modul2_1302200097.pdb
