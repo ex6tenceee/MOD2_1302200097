@@ -32,7 +32,7 @@ namespace modul2_1302200097
 
         private void button1_MouseClick(object sender, MouseEventArgs e)
         {
-            if (label1.Text == "0" && label1.text != null)
+            if (label1.Text == "0" && label1.Text != null)
             {
                 label1.Text == "1";
             }
